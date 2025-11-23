@@ -2,7 +2,7 @@
 # Tuxera-NTFS Mac One-Time License
 
 <div align="center">
-  <img src="Tuxera-NTFS_logo.png" width="200" alt="Tuxera-NTFS App Icon"/>
+  <img src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1447090756923-TNTFS.png" width="200" alt="Tuxera-NTFS App Icon"/>
 </div>
 <br>
 
